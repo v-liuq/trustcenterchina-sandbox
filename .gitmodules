@@ -1,4 +1,4 @@
 [submodule "_themes"]
 	path = _themes
-	url = https://github.com/Microsoft/templates.docs.msft
+	url = https://github.com/kimizhu/templates.docs.msft
 	branch = master

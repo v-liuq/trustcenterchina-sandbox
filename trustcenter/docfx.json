@@ -16,12 +16,13 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+          "**"
         ],
         "exclude": [
           "**/obj/**",
-          "trustcenter/**"
+          "**/*.md",
+          "trustcenter/**",
+          "_themes/DocPacker/**"
         ],
         "src": null,
         "dest": null
