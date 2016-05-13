@@ -99,19 +99,24 @@ In the following pages, we describe the specific policies, operational practices
                       <p>
                          We give you authenticated and logged access to your Customer Data, and restrict access to it by 21Vianet personnel and subcontractors. We also take strong steps to protect your Customer Data from inappropriate use or loss, and to segregate your Customer Data on shared hardware from that of other customers.
                       </p>
-                      <a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about data ownership in Microsoft Azure and Office 365 Operated by 21Viane</a>
+                      <p><a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about data ownership in Microsoft Azure and Office 365 Operated by 21Viane</a>
+                      </p>
                      <label>
                      You are in control of your Customer Data
                      </label>
                      <p>In Microsoft Azure and Office 365 operated by 21Vianet, you know where your Customer Data is located, who can access it and under what circumstances, and how it is responsibly protected, transferred, and deleted. 
                      </p>
-                     <a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about controlling your Customer Data in Azure and Office 365</a>
+                     <p><a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about controlling your Customer Data in Azure and Office 365</a>
+                     </p>
+      
                      <label>
                      How 21Vianet responds to law enforcement or third party asks for Customer Data.
                      </label>
                      <p>21Vianet believes that its customers who should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited.
                      </p>
-                      <a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about how we respond to lawful requests for access to Customer Data</a>
+                     
+                     <p><a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about how we respond to lawful requests for access to Customer Data</a>
+                     </p>
                      <label>
                      We set and adhere to stringent privacy standards
                      </label>
